@@ -1,4 +1,5 @@
-# Lung Infection Prediction TransferLearning Ensemble Model Statistics
+# Lung Infection Prediction using Transfer Learning 
+# Ensemble Model Statistics
 Lung Infection prediction using different transfer learning techniques like InceptionV3, Resnet, ResnetV2, Vgg16, Vgg19. Bagging model based on the predictions from all these models. Created a wrapper API using flask.
 
 git clone https://github.com/sanjayram97/LungInfection_TransferLearning_EnsembleModel.git
